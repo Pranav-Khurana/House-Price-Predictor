@@ -18,7 +18,7 @@ B. Server-side Script ![N|Solid](https://www.php.net/images/logos/php-power-micr
   -> Send Request for Predicted Price(Dependent Variables)
   -> Web Server used : [Apache2](https://httpd.apache.org/)
   
---
+----
 
 This project is not deployed but the code for same is available at [House-Price-Predictor](https://github.com/Pranav-Khurana/House-Price-Predictor)
 
